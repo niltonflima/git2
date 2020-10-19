@@ -2,3 +2,4 @@ teste
 considerações
 mais uma consideração
 esta linha foi modificada no ramo master
+esta linha foi modificada no ramo teste
